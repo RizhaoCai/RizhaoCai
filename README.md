@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @RizhaoCai, a PhD student in [ROSE Lab@LNTU](https://www.ntu.edu.sg/rose)
-- 🌱 I’m currently doing research on face anti-spoofing and domain generalization. 
-- 👀 Beyond, I’m interested in Basketball, Guitar, Writing, and reading history books. Meanwhile, as a research staff of ROSE Lab, I have been managing and leading projects with several industrial partenrs, which are about using object detection, recognition, image generation and simulation. I am also seeking oppotunities of using AI in industry.
+- 👋 Hi, I’m @RizhaoCai, a AI and computer vision researcher.
+-  🌱 I’m currently doing research on AI for safety and security. I have been focusing on face anti-spoofing& domain generalization during my PhD research
 
 - Reach me if you are interested:   
-   📫 rzcai@ntu.edu.sg  
    🏠 [https://rizhaocai.github.io](https://rizhaocai.github.io)  
 
 <!---
